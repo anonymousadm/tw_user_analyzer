@@ -8,3 +8,4 @@ This tools support multi-processes, if you have more than one twitter accounts, 
 In the "targets.list" I'll use @zlj517 and @SpokespersonCHN as examples.
 ![华春莹](https://github.com/anonymousadm/tw_user_analyzer/blob/main/screenshot/%E5%8D%8E%E6%98%A5%E8%8E%B9.jpg)
 ![赵立坚](https://github.com/anonymousadm/tw_user_analyzer/blob/main/screenshot/%E8%B5%B5%E7%AB%8B%E5%9D%9A.jpg)
+![](https://github.com/anonymousadm/tw_user_analyzer/blob/main/screenshot/zlj_vs_hcy.jpg)

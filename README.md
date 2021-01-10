@@ -10,7 +10,7 @@ This tools support multi-processes, if you have more than one twitter accounts, 
 
 <img src="/screenshot/2021-01-10_12-08-27.jpg">
 
-<img src"/screenshot/2021-01-10_00-06-27.jpg">
+<img src="/screenshot/2021-01-10_00-06-27.jpg">
 
 
 In the "targets.list" I'll use @zlj517 and @SpokespersonCHN as examples.

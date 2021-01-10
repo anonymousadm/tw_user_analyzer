@@ -3,3 +3,4 @@ This script is based on twurl and Twitter API, so you need to register a Twitter
 Get twurl from here "https://github.com/twitter/twurl"
 This tools support multi-processes, if you have more than one twitter accounts, you can use twurl to register them on your twitter project.
 "twurl accounts" will show you all registered accounts
+screenshot/2021-01-10_12-08-27.jpg

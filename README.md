@@ -20,3 +20,21 @@ In the "targets.list" I'll use @zlj517 and @SpokespersonCHN as examples.
 <img src="screenshot/%E8%B5%B5%E7%AB%8B%E5%9D%9A.jpg">
 
 <img src="/screenshot/zlj_vs_hcy.jpg">
+
+
+Don't forget install jq and json-query, I already uploaded the json_query-0.0.2-py2-none-any.whl
+
+After install the json-query need to use vi to edit /usr/local/bin/json-query like following:
+
+```
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from jsonquery.jsonquery import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
+```
